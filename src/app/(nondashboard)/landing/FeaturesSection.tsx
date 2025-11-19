@@ -43,14 +43,14 @@ const FeaturesSection = () => {
                                 imageSrc={`/landing-search${3 - index}.png`}
                                 title={
                                     [
-                                        "Trustworthy and Verified Listings",
+                                        "Trustworthy and Verified Listings for Renters",
                                         "Browse a Wide Range of Rental Properties with Ease",
                                         "Simplify Your Rental Search with Advanced"
                                     ][index]
                                 }
                                 description={
                                     [
-                                        "Discover the best rental options with user reviews and ratings for each property.",
+                                        "Discover the best rental options with user reviews and ratings for each property listing.",
                                         "Get access to user reviews and ratings for a better understanding of rental options.",
                                         "Find trustworthy and verified rental listings to ensure a hustle-free experience."
                                     ][index]
